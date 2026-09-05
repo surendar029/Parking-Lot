@@ -1,3 +1,5 @@
+# Parking Lot System
+
 ## Description
 
 A thread-safe, concurrency-focused **Parking Lot Management System** built with **Java 17**, designed to demonstrate scalable object-oriented design and safe resource allocation under concurrent vehicle entry and exit operations.
