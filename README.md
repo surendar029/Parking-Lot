@@ -20,7 +20,7 @@ The system uses **`ConcurrentHashMap`**, **`AtomicBoolean`**, and **spot-level s
 ## Tech Stack
 
 * **Language**: Java 17
-* **Concurrency**: `ConcurrentHashMap`, `AtomicBoolean`, `synchronized`, thread-safe locking
+* **Concurrency**: `ConcurrentHashMap`, `AtomicBoolean`, `synchronized`, Thread-safe locking
 * **Design Patterns**: Singleton, Strategy, Factory, Builder
 * **Data Structures**: ConcurrentHashMap, UUID
 * **Build & Tools**: IntelliJ IDEA
