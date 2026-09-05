@@ -24,3 +24,8 @@ The system uses **`ConcurrentHashMap`**, **`AtomicBoolean`**, and **spot-level s
 * **Design Patterns**: Singleton, Strategy, Factory, Builder
 * **Data Structures**: ConcurrentHashMap, UUID
 * **Build & Tools**: IntelliJ IDEA
+
+---
+## Category 
+- Low-Level Design
+---
