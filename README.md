@@ -2,7 +2,7 @@
 
 ## Description
 
-a thread-safe, concurrency-focused **Parking Lot Management System** built with **Java 17**, designed to demonstrate scalable object-oriented design and safe resource allocation under concurrent vehicle entry and exit operations.
+A thread-safe, concurrency-focused **Parking Lot Management System** built with **Java 17**, designed to demonstrate scalable object-oriented design and safe resource allocation under concurrent vehicle entry and exit operations.
 The system uses **`ConcurrentHashMap`**, **`AtomicBoolean`**, and **spot-level synchronized locking** to prevent race conditions and double allocation of parking spaces. A TOCTOU-safe retry mechanism ensures reliable spot assignment even when multiple vehicles attempt to park concurrently. The architecture applies established **Singleton, Strategy, Factory, and Builder design patterns** for centralized lot management, flexible fee/payment strategies, vehicle creation, and fluent configuration. UUID-based ticket generation provides unique parking session identification.
 
 ## Key Features
