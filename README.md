@@ -22,4 +22,4 @@ The system uses **`ConcurrentHashMap`**, **`AtomicBoolean`**, and **spot-level s
 * **Concurrency**: `ConcurrentHashMap`, `AtomicBoolean`, `synchronized`, thread-safe locking
 * **Design Patterns**: Singleton, Strategy, Factory, Builder
 * **Data Structures**: ConcurrentHashMap, UUID
-* **Build & Tools**: IntelliJ IDEA, Java
+* **Build & Tools**: IntelliJ IDEA
